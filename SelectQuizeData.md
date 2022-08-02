@@ -1,6 +1,8 @@
 # JDBC_DAO
 데이터베이스 접근 객체
 
+## SelectQuizeData
+
 ```java
 public ArrayList<StudentVO> selectQuizeData() throws SQLException {
         ArrayList<StudentVO> list;
