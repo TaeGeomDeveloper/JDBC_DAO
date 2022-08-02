@@ -1,6 +1,6 @@
 # DAO
 
-## SekectQuery
+## SelectQuery
 ```java
 public int selectQuery1(String query) throws SQLException {
         // 컨낵션 필요
